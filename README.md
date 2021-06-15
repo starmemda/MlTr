@@ -8,7 +8,7 @@ The task of multi-label image classification is to recognize all the object labe
 
 ## Pretrained model (Results on MS-COCO2014)
 | name | resolution | map | params(M) | model | log |
-| :---: | :---: | :---: | :---: | :---: | :---: |:---: |:---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | mltr-s | 224x224 | 81.9 | 33 | coming soon | coming soon |
 | mltr-m | 384x384 | 86.8 | 62 | coming soon | coming soon |
 | mltr-l | 384x384 | 88.5 | 108 | coming soon | coming soon |
